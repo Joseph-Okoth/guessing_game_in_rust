@@ -1,0 +1,1 @@
+My first repository in rust progaramming language. A guessing game that requires a user to input a value within the range, if the user guesses correctly the console prints a congratulatory message "You win"
